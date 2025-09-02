@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Sobre Mim - Portfólio</title>
+    <title> Sobre Mim - Portfólio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,12 +21,12 @@
 
     <section>
         <h2>Sobre mim</h2>
-        <p>Meu nome é [SEU NOME]. Tenho [X anos] e gosto de [seus hobbies]. 
+        <p>Meu nome é Luiz Felipe Nascimento Da Silva. Tenho 19 anos e gosto de estudar, treinar e assistir filmes. 
         Atualmente estou estudando e me dedicando a aprender mais sobre programação e tecnologia.</p>
     </section>
 
     <footer>
-        <p>© 2024 - Desenvolvido por [SEU NOME]</p>
+        <p>© 2024 - Desenvolvido por Luiz Felipe Nascimento Da Silva</p>
     </footer>
 </body>
 </html>
