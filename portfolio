@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Sobre Mim - Portfólio</title>
+    <title>Formação - Portfólio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -16,13 +16,20 @@
     </nav>
 
     <header>
-        <h1>Bem-vindo ao meu portfólio!</h1>
+        <h1>Minha Formação</h1>
     </header>
 
     <section>
-        <h2>Sobre mim</h2>
-        <p>Meu nome é [SEU NOME]. Tenho [X anos] e gosto de [seus hobbies]. 
-        Atualmente estou estudando e me dedicando a aprender mais sobre programação e tecnologia.</p>
+        <h2>Educação</h2>
+        <p>Atualmente curso [SEU CURSO] na [INSTITUIÇÃO].</p>
+        <p>Também já estudei [outros cursos relevantes].</p>
+
+        <h2>Idiomas</h2>
+        <ul>
+            <li>Português – Nativo</li>
+            <li>Inglês – Intermediário</li>
+            <li>[Outros idiomas se houver]</li>
+        </ul>
     </section>
 
     <footer>
@@ -30,3 +37,4 @@
     </footer>
 </body>
 </html>
+
