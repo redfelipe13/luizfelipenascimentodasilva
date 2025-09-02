@@ -1,0 +1,80 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f9;
+    color: #333;
+}
+
+/* Menu */
+nav {
+    background: #222;
+    padding: 10px;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav ul li {
+    margin-right: 20px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    color: #f39c12;
+}
+
+/* Cabeçalho */
+header {
+    padding: 20px;
+    text-align: center;
+    background: #f39c12;
+    color: white;
+}
+
+/* Conteúdo */
+section {
+    padding: 20px;
+}
+
+/* Rodapé */
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Formulário */
+form {
+    max-width: 400px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+input[type="submit"] {
+    background: #f39c12;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background: #d35400;
+}
